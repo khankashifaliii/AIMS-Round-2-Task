@@ -24,3 +24,7 @@ Training epochs: 20 (as requested)
 Dataset size: ~15,000 images
 
 Model weight: https://drive.google.com/drive/folders/1h2PIzm2oMfC2MHrN8fujFYR4wLHpU4bQ?usp=sharing
+
+Demo Video Link- https://youtu.be/ZZK3iW--zHE?si=E1GtGgDrkJY5fcoZ
+
+Documentation Link- https://docs.google.com/document/d/1Hq6aIGVPaydoQ8USpluEi7yp2t7lxUaelzcP9AvA1oM/edit?usp=sharing
