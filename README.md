@@ -1,4 +1,4 @@
-Activity Detection Pipeline — YOLOv8 (yolov8m) + SentenceTransformer + spaCy
+#Activity Detection Pipeline — YOLOv8 (yolov8m) + SentenceTransformer + spaCy
 
 Overview
 
