@@ -22,3 +22,5 @@ Base model: yolov8m (Ultralytics YOLOv8 medium variant)
 Training epochs: 20 (as requested)
 
 Dataset size: ~15,000 images
+
+Model weight: https://drive.google.com/drive/folders/1h2PIzm2oMfC2MHrN8fujFYR4wLHpU4bQ?usp=sharing
